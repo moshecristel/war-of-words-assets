@@ -1,0 +1,6 @@
+Project Notes
+=======================================================
+
+Package Manager -> Import new Input System
+Window -> Analysis -> Input Debugger.  Options -> Simulate Touch Input for Mouse or Pen
+
